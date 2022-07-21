@@ -4,7 +4,7 @@ This collection archives datasets that measure democracy in use in the scholarly
 
 **1. V-Dem**
 
-Codebook
+[Codebook](Dem-Data-Collection/POLITY5 Political Regime Characteristics and Transitions, 1800-2018 Dataset Users’ Manual.pdf)
 
 The V-Dem Institute, led by Professor Staffan I. Lindberg, is an independent research institute and the Headquarters of the V-Dem project. The institute is based at the Department of Political Science at the University of Gothenburg in Sweden. The Institute is in charge of the operations relating to the data collection and the V-Dem data, including the Country Expert data collection, data curation and making the data available to the users. 
 
