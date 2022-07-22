@@ -64,9 +64,25 @@ Polity5 Project, Political Regime Characteristics and Transitions, 1800-2018, a
 The authors operationalize electoral democracy as a series of necessary-and-sufficient conditions arrayed in an ordinal scale. The resulting Lexical index of electoral democracy (LIED), based partly on new data, covers all independent countries of the world from 1800 to 2013. It incorporates binary coding of its sub-components, which are aggregated into an ordinal scale using a cumulative logic. In this fashion, they arrive at an index that performs a classificatory function, each level identifies a unique and theoretically meaningful regime type, as well as a discriminating function. 
 
 
-- Country codes (for V-Dem included and small corrections made): 
+- Country codes (for V-Dem included and small corrections made):  [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/6a3d0a37bb7840acf77d5805e26cb385945b0f30/Lexicial%20Index%20of%20Electoral%20Democracy/lied_v5.2.xls)
 
-[Excel](https://github.com/philoywang/Dem-Data-Collection/blob/6a3d0a37bb7840acf77d5805e26cb385945b0f30/Lexicial%20Index%20of%20Electoral%20Democracy/lied_v5.2.xls)
+
+
+**5. ACLP/DD/PPD datasets**
+
+ACLP: Data set used in the book Democracy and Development: Political Institutions and Well-Being in the  World, 1950-1990 (Cambridge 2000). Coverage: 135 countries, from 1950 or year of independence to 1990.
+
+- Codebook: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/a52ae507fef765007d25895c7fa80b15a6afbab0/aclp/ACLP_Codebook.PDF)
+- Dataset: [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/a52ae507fef765007d25895c7fa80b15a6afbab0/aclp/AclpData.xls)
+
+
+DD: Classification of political regimes as democracy and dictatorship. Classification of democracies as parliamentary, semi-presidential (mixed) and presidential. Classification of dictatorships as military, civilian and royal. Coverage: 202 countries, from 1946 or year of independence to 2008.
+
+- Codebook: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/1ad03c720229adf237f373efa60fe6aaa04f75f8/DD/ddrevisited%20codebook%20v1%20corrected.pdf)
+- Dataset: [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/1ad03c720229adf237f373efa60fe6aaa04f75f8/DD/ddrevisited_data_v1.xls) [Stata](https://github.com/philoywang/Dem-Data-Collection/blob/1ad03c720229adf237f373efa60fe6aaa04f75f8/DD/ddrevisited_data_v1.dta)
+
+PPD: Data set used in the book Presidentialism, Parliamentarism, and Democracy (Cambridge 2007) and in the article “Presidentialism, Electoral Identifiability, and Budget Balances in Democratic Systems” (APSR 2006) . Coverage: 199 countries, from 1946 or year of independence to 2002.
+
 
 
 
