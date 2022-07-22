@@ -21,6 +21,7 @@ It treats experts’ ordinal ratings as imperfect reflections of interval-level 
                   
 Polity5 Project, Political Regime Characteristics and Transitions, 1800-2018, annual, cross-national, time-series and polity-case formats coding democratic and autocratic "patterns of authority" and regime changes in all independent countries with total population greater than 500,000 in 2018 (167 countries in 2018). Polity5 refined data covers mainly the period, 1946-2018; data for years 1800-1945 are Polity IV values.
 
+[Codebook](https://github.com/philoywang/Dem-Data-Collection/blob/49fdc1a439b88c3ad815736b89cf39cbf091bbc0/POLITY5%20Political%20Regime%20Characteristics%20and%20Transitions,%201800-2018%20Dataset%20Users%E2%80%99%20Manual.pdf)
 
 Polity5 Annual Time-Series, 1946-2018:
 
@@ -32,8 +33,6 @@ Polity5d Polity-Case Format, 1800-2018:
 [SPSS](https://github.com/philoywang/Dem-Data-Collection/blob/9c53b33c66f02b7f9759611a6b8b9f58d2e63ff6/Polity%205%20Case.sav)
 [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/9c53b33c66f02b7f9759611a6b8b9f58d2e63ff6/Polity%205%20Case.xls)
 
-
-[Codebook](https://github.com/philoywang/Dem-Data-Collection/blob/49fdc1a439b88c3ad815736b89cf39cbf091bbc0/POLITY5%20Political%20Regime%20Characteristics%20and%20Transitions,%201800-2018%20Dataset%20Users%E2%80%99%20Manual.pdf)
 
 Coups list:
 
