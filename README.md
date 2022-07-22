@@ -42,9 +42,14 @@ Series:
 [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/10c64ea5b586ace10c6ee2f2f0bcd4697d1c5a20/CSPCoupsAnnualv2021.xls)
 
 
-**[3.AUTOCRATIC REGIME DATA](https://sites.psu.edu/dictators/)**
+
+
+
+**[3.GWF AUTOCRATIC REGIME DATA](https://sites.psu.edu/dictators/)**
 
 *GWF Autocratic Regimes*
+
+[Codebook](https://github.com/philoywang/Dem-Data-Collection/blob/c3f8f927301835a512d1052359862d858119e551/GWF%20Autocratic%20Regimes%201.2/GWF%20Codebook.pdf)
 
 Regimes cases, codebook tables and TSCS data: 
 
