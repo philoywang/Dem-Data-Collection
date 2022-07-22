@@ -33,7 +33,6 @@ Polity5d Polity-Case Format, 1800-2018:
 [SPSS](https://github.com/philoywang/Dem-Data-Collection/blob/9c53b33c66f02b7f9759611a6b8b9f58d2e63ff6/Polity%205%20Case.sav)
 [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/9c53b33c66f02b7f9759611a6b8b9f58d2e63ff6/Polity%205%20Case.xls)
 
-
 Coups list:
 
 [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/f36a7054d556fcb8b15570e33897711fc80428a1/CSPCoupsListv2021.xls)
@@ -41,3 +40,41 @@ Coups list:
 Series:
 
 [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/10c64ea5b586ace10c6ee2f2f0bcd4697d1c5a20/CSPCoupsAnnualv2021.xls)
+
+
+**[3.AUTOCRATIC REGIME DATA](https://sites.psu.edu/dictators/)**
+
+*GWF Autocratic Regimes*
+
+Regimes cases, codebook tables and TSCS data: 
+
+[Excel](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/GWF%20Autocratic%20Regimes.xlsx)
+
+Regime TSCS data: 
+
+[txt](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/GWFtscs.txt)  
+[Stata](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/GWFtscs.dta)
+
+Regime Cases: 
+
+[Stata](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/GWFcases.dta)
+
+Transform the list of cases into TSCS data: 
+
+[Stata](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/clean.do)
+
+
+*GWF All Political Regimes*
+
+A list of all political regimes: 
+
+[Excel](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/GWF%20All%20Political%20Regimes%20Case%20List.xls)
+
+TSCS data on all political regimes:
+
+[txt](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/GWF_AllPoliticalRegimes.txt) 
+[Stata](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/GWF_AllPoliticalRegimes.dta)
+
+
+
+
