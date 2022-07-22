@@ -83,6 +83,7 @@ DD: Classification of political regimes as democracy and dictatorship. Classific
 
 PPD: Data set used in the book Presidentialism, Parliamentarism, and Democracy (Cambridge 2007) and in the article “Presidentialism, Electoral Identifiability, and Budget Balances in Democratic Systems” (APSR 2006) . Coverage: 199 countries, from 1946 or year of independence to 2002.
 
-
+- Dataset: [Word](https://github.com/philoywang/Dem-Data-Collection/blob/4db9895c742bc16517d9bdf40057ff3585040a0b/ppd/PPD.doc)
+[Excel](https://github.com/philoywang/Dem-Data-Collection/blob/4db9895c742bc16517d9bdf40057ff3585040a0b/ppd/PPD.xls)
 
 
