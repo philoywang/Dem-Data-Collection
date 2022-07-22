@@ -89,7 +89,7 @@ Bayesian Item-Response Theory (IRT):
 
 [**6. The Worldwide Governance Indicators**](http://info.worldbank.org/governance/wgi/)
 
-.The Worldwide Governance Indicators (WGI) project reports aggregate and individual governance indicators for over 200 countries and territories over the period 1996–2020, for six dimensions of governance: Voice and Accountability; Political Stability and Absence of Violence/Terrorism; Government; Effectiveness; Regulatory Quality; Rule of Law; Control of Corruption.These aggregate indicators combine the views of a large number of enterprise, citizen and expert survey respondents in industrial and developing countries.  They are based on over 30 individual data sources produced by a variety of survey institutes, think tanks, non-governmental organizations, international organizations, and private sector firms.
+>The Worldwide Governance Indicators (WGI) project reports aggregate and individual governance indicators for over 200 countries and territories over the period 1996–2020, for six dimensions of governance: Voice and Accountability; Political Stability and Absence of Violence/Terrorism; Government; Effectiveness; Regulatory Quality; Rule of Law; Control of Corruption.These aggregate indicators combine the views of a large number of enterprise, citizen and expert survey respondents in industrial and developing countries.  They are based on over 30 individual data sources produced by a variety of survey institutes, think tanks, non-governmental organizations, international organizations, and private sector firms.
 
 
 - Codebook: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/459c3dcf47ce543de0040c65e34dd12770c015d9/Worldwide%20Governance%20Indicators/PublicStataDatasetReadme.pdf)
@@ -115,3 +115,6 @@ are available for the entire sample. In order to address the issue of measuremen
 indices, we create a consolidated and dichotomous measure of democracy. Following Papaioannou and
 Siourounis (2008), our index combines information from several datasets, including Freedom House
 and Polity IV, and only considers a country as democratic when several sources classify it as such.
+
+[**9. Boix-Miller-Rosato Dichotomous Coding of Democracy, 1800-2015
+](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FJLMKT)**
