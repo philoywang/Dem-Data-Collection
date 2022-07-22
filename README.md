@@ -116,12 +116,23 @@ indices, we create a consolidated and dichotomous measure of democracy. Followin
 Siourounis (2008), our index combines information from several datasets, including Freedom House
 and Polity IV, and only considers a country as democratic when several sources classify it as such.
 
-[**9. Boix-Miller-Rosato Dichotomous Coding of Democracy, 1800-2020
-**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FJLMKT](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FENWWR)**
+[**9. Boix-Miller-Rosato Dichotomous Coding of Democracy, 1800-2020**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FJLMKT](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FENWWR)
 
 >This data set provides a dichotomous coding of democracy for every country in the world (222 total) from 1800 to 2020. It updates the original version of our data, which ended in 2007. This version also includes a measure of democracy that requires a level of female suffrage. Please cite the following publication when using the data: Carles Boix, Michael K. Miller, and Sebastian Rosato. 2013. "A Complete Data Set of Political Regimes, 1800-2007." Comparative Political Studies 46(12): 1523-54. (2022-01-03)
 
 - Paper: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/0b7ecf9df23717f386a9d9578f980c4dea0ce83f/Boix-Miller-Rosato%20Dichotomous%20Coding%20of%20Democracy,%201800-2020/BMR-PolRegimes.pdf)
 - Codebook: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/0b7ecf9df23717f386a9d9578f980c4dea0ce83f/Boix-Miller-Rosato%20Dichotomous%20Coding%20of%20Democracy,%201800-2020/Codebook-BMRv4.0.pdf)
 - Dataset: [txt](https://github.com/philoywang/Dem-Data-Collection/blob/0b7ecf9df23717f386a9d9578f980c4dea0ce83f/Boix-Miller-Rosato%20Dichotomous%20Coding%20of%20Democracy,%201800-2020/democracy-v4.0.txt) [Stata](https://github.com/philoywang/Dem-Data-Collection/blob/0b7ecf9df23717f386a9d9578f980c4dea0ce83f/Boix-Miller-Rosato%20Dichotomous%20Coding%20of%20Democracy,%201800-2020/democracy-v4.0.dta) [csv](https://github.com/philoywang/Dem-Data-Collection/blob/0b7ecf9df23717f386a9d9578f980c4dea0ce83f/Boix-Miller-Rosato%20Dichotomous%20Coding%20of%20Democracy,%201800-2020/democracy-v4.0.csv)
+
+
+**10. Freedom House - Freedom in the World 2022**
+
+> Freedom in the World is produced each year by a team of in-house and external analysts and expert advisers from the academic, think tank, and human rights communities. The 2022 edition involved 128 analysts, and nearly 50 advisers. The analysts, who prepare the draft reports and scores, use a broad range of sources, including news articles, academic analyses, reports from nongovernmental organizations, individual professional contacts, and on-the-ground research. The analysts score countries and territories based on the conditions and events within their borders during the coverage period. Although an element of subjectivity is unavoidable in such an enterprise, the ratings process emphasizes methodological consistency, intellectual rigor, and balanced and unbiased judgments.
+
+- Codebook: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/6d78c5a672ced139eafe70df43e88572ca2b53f7/freedom%20house/FIW_2022_Methodology_For_Web.pdf)
+- All Data (2013-2022): [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/6d78c5a672ced139eafe70df43e88572ca2b53f7/freedom%20house/All_data_FIW_2013-2022.xlsx)
+- Country and Territory Ratings and Statuses (1973-2022): [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/6d78c5a672ced139eafe70df43e88572ca2b53f7/freedom%20house/Country_and_Territory_Ratings_and_Statuses_FIW_1973-2022%20.xlsx)
+- Aggregate Category and Subcategory Scores (2003-2022): [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/6d78c5a672ced139eafe70df43e88572ca2b53f7/freedom%20house/Aggregate_Category_and_Subcategory_Scores_FIW_2003-2022.xlsx)
+- List of Electoral Democracies (2022): [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/6d78c5a672ced139eafe70df43e88572ca2b53f7/freedom%20house/List_of_Electoral_Democracies_FIW22.xlsx)
+
 
