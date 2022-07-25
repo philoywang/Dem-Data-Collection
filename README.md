@@ -116,7 +116,7 @@ indices, we create a consolidated and dichotomous measure of democracy. Followin
 Siourounis (2008), our index combines information from several datasets, including Freedom House
 and Polity IV, and only considers a country as democratic when several sources classify it as such.
 
-[**9. Boix-Miller-Rosato Dichotomous Coding of Democracy, 1800-2020**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FJLMKT](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FENWWR)
+[**9. Boix-Miller-Rosato Dichotomous Coding of Democracy, 1800-2020**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FJLMKT]
 
 >This data set provides a dichotomous coding of democracy for every country in the world (222 total) from 1800 to 2020. It updates the original version of our data, which ended in 2007. This version also includes a measure of democracy that requires a level of female suffrage. Please cite the following publication when using the data: Carles Boix, Michael K. Miller, and Sebastian Rosato. 2013. "A Complete Data Set of Political Regimes, 1800-2007." Comparative Political Studies 46(12): 1523-54. (2022-01-03)
 
