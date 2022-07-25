@@ -100,7 +100,7 @@ Bayesian Item-Response Theory (IRT):
 
 >This data set contains the list of states in the international system as updated and distributed by the Correlates of War Project. These data sets identify states, their standard Correlates of War "country code" or state number (used throughout the Correlates of War project data sets), state abbreviations, and dates of membership as states and major powers in the international system. Version 2016 extends the temporal domain of the collection through December 2016. The Correlates of War project includes a state in the international system from 1816-2016 for the following criteria. Prior to 1920, the entity must have had a population greater than 500,000 and have had diplomatic missions at or above the rank of charge d’affaires with Britain and France. After 1920, the entity must be a member of the League of Nations or the United Nations, or have a population greater than 500,000 and receive diplomatic missions from two major powers.
 
-- Codebook: pdf
+- Codebook: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/807319358f979d0013453e7d437eb412908e6cc7/correlates%20of%20war/State%20System%20Membership%20Codebook%20V2016.pdf)
 - States2016 (provides entry and exit dates of states, country codes, and abbreviations): [csv](https://github.com/philoywang/Dem-Data-Collection/blob/318ea07f67941efee926869daac1af676aefb923/correlates%20of%20war/states2016.csv)
 - Majors2016 (provides the entry and exit dates for states to be designated as major powers): [csv](https://github.com/philoywang/Dem-Data-Collection/blob/318ea07f67941efee926869daac1af676aefb923/correlates%20of%20war/majors2016.csv)
 - System2016 (gives the composition of the state system year by year, providing a blank country-year dataset
