@@ -125,7 +125,7 @@ and Polity IV, and only considers a country as democratic when several sources c
 - Dataset: [txt](https://github.com/philoywang/Dem-Data-Collection/blob/0b7ecf9df23717f386a9d9578f980c4dea0ce83f/Boix-Miller-Rosato%20Dichotomous%20Coding%20of%20Democracy,%201800-2020/democracy-v4.0.txt) [Stata](https://github.com/philoywang/Dem-Data-Collection/blob/0b7ecf9df23717f386a9d9578f980c4dea0ce83f/Boix-Miller-Rosato%20Dichotomous%20Coding%20of%20Democracy,%201800-2020/democracy-v4.0.dta) [csv](https://github.com/philoywang/Dem-Data-Collection/blob/0b7ecf9df23717f386a9d9578f980c4dea0ce83f/Boix-Miller-Rosato%20Dichotomous%20Coding%20of%20Democracy,%201800-2020/democracy-v4.0.csv)
 
 
-**10. Freedom House - Freedom in the World 2022**
+[**10. Freedom House - Freedom in the World 2022**](https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule/countries-regions)
 
 > Freedom in the World is produced each year by a team of in-house and external analysts and expert advisers from the academic, think tank, and human rights communities. The 2022 edition involved 128 analysts, and nearly 50 advisers. The analysts, who prepare the draft reports and scores, use a broad range of sources, including news articles, academic analyses, reports from nongovernmental organizations, individual professional contacts, and on-the-ground research. The analysts score countries and territories based on the conditions and events within their borders during the coverage period. Although an element of subjectivity is unavoidable in such an enterprise, the ratings process emphasizes methodological consistency, intellectual rigor, and balanced and unbiased judgments.
 
