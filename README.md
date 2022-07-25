@@ -39,7 +39,7 @@ Bayesian Item-Response Theory (IRT):
 
 *GWF Autocratic Regimes*
 
-- [Codebook](https://github.com/philoywang/Dem-Data-Collection/blob/c3f8f927301835a512d1052359862d858119e551/GWF%20Autocratic%20Regimes%201.2/GWF%20Codebook.pdf)
+- Codebook: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/c3f8f927301835a512d1052359862d858119e551/GWF%20Autocratic%20Regimes%201.2/GWF%20Codebook.pdf)
 
 - Regimes cases, codebook tables and TSCS data: [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/951d747d2a57d2c2e04daf60d9c540cfbac3cd2e/GWF%20Autocratic%20Regimes%201.2/GWF%20Autocratic%20Regimes.xlsx)
 
