@@ -59,7 +59,6 @@ Codebook: [pdf](https://github.com/philoywang/Dem-Data-Collection/blob/49fdc1a43
 
 
 
-
 [**4.Lexicial Index of Electoral Democracy**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/29106)
 
 >The authors operationalize electoral democracy as a series of necessary-and-sufficient conditions arrayed in an ordinal scale. The resulting Lexical index of electoral democracy (LIED), based partly on new data, covers all independent countries of the world from 1800 to 2013. It incorporates binary coding of its sub-components, which are aggregated into an ordinal scale using a cumulative logic. In this fashion, they arrive at an index that performs a classificatory function, each level identifies a unique and theoretically meaningful regime type, as well as a discriminating function. 
@@ -136,4 +135,43 @@ and Polity IV, and only considers a country as democratic when several sources c
 - Aggregate Category and Subcategory Scores (2003-2022): [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/6d78c5a672ced139eafe70df43e88572ca2b53f7/freedom%20house/Aggregate_Category_and_Subcategory_Scores_FIW_2003-2022.xlsx)
 - List of Electoral Democracies (2022): [Excel](https://github.com/philoywang/Dem-Data-Collection/blob/6d78c5a672ced139eafe70df43e88572ca2b53f7/freedom%20house/List_of_Electoral_Democracies_FIW22.xlsx)
 
+[**Democracy**]
+|Dataset| Measure | Measure Type| Downloadable|Note|Range|
+|---|---|---|---|---|---|
+|[The Anckar-Fredriksson dataset of political regime](https://link.springer.com/article/10.1057/s41304-018-0149-8)|democracy|dichotomous|Yes||1800-2016|
+|The Acemoglu, Naidu, Restrepo, and Robinson dataset|democracy|dichotomous|No|the rules are not entirely transparent, and some cases in the original dataset have been hand-coded.|1960-2010|
+|[The Arat measure of democracy](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/PMM)|Democracy and human rights in developing countries|continuous|No|Can't aceess to the original data|1948-1982|
+|[The Bowman, Lehoucq, and Mahoney index of democracy for Central America](https://www.blmdemocracy.gatech.edu/)|Democracy|trichotomous|Yes||1900-2000|
+|[The Boix-Miller-Rosato dichotomous coding of democracy, 1800-2015, version 3.0](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FJLMKT)|democracy,female suffrage|dichotomous|Yes||1800-2015|
+|[The Bollen measure of democracy](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/PMM)|Democracy index. Ranges from 0 to 100.||No|The original dataset is not available.Only available via the Pemstein, Meserve, and Melton (2013) replication data.|1950-1980|
+|[Renske Doorenspleet’s Democracy Dataset](https://www.cambridge.org/core/journals/world-politics/article/abs/reassessing-the-three-waves-of-democratization/25A6CB38E6746F98D882DFC43A54D211)|country-year version of the democracy classification(reassessing the Three Waves of Democratization)|dichotomous|No||1800-1994|
+|[The Economist Intelligence Unit’s Democracy Index](https://www.eiu.com/n/campaigns/democracy-index-2020/)|EIU democracy index|continuous|No|The original data has to be manually extracted from the tables in the EIU’s pdf report on the index.|2006-2021|
+|[Freedom House “Freedom in the World” data](https://freedomhouse.org/report/freedom-world)|Democracy Status|ordinal|Yes|||
+|[Axel Hadenius’ Index of Democracy](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/PMM)|Democracy Index|continuous|No|Only available via the Pemstein, Meserve, and Melton (2013) replication data|1988|
+|[Political Instability Task Force democracy indicator](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2726962)|democracy indicator|dichotomous|No|Constructed score on the basis of Polity data.|1789-2020|
+|Suport Vector Machine Democracy Index by Grundler and Krieger|Democracy Index|continuous|Yes||1919-2019|
+|[The Unified Democracy Scores](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/PMM)|Democracy|continuous|Yes||1946-2012|
+|[The Berteslmann Index of Political transformation](https://bti-project.org/en/index/political-transformation)|Democracy Status|continuous|Yes||2004-2020|
+|[The Bernhard, Nordstrom & Reenock Event History Coding of Democratic Breakdowns](https://people.clas.ufl.edu/bernhard/)|Event|dichotomous|Yes||1913-2005|
 
+[**Electoral, governance**]
+|Dataset| Measure | Measure Type| Downloadable|Note|Range|
+|---|---|---|---|---|---|
+|Freedom House “Electoral Democracies” List|electoral|dichotomous|Yes||1990-now|
+|[The Lexical Index of Electoral Democracy](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/29106)|Electoral Democracy index|ordinal|Yes||1789-2021|
+|The Rulers, Elections, and Irregular Governance (REIGN) dataset, regime characteristics worksheet.|regime,governance|dichotomous|Yes||
+|[The World Governance Indicators “Voice and Accountability” Index](https://info.worldbank.org/governance/wgi/Home/Documents)|governance|continuous|Yes|||
+
+[**Regime,autocracy**]
+|Dataset| Measure | Measure Type| Downloadable|Note|Range|
+|---|---|---|---|---|---|
+|The Geddes Wright and Frantz Autocratic Regimes dataset|regime, autocracy|dichotomous|Yes|
+|[The Steffen Kailitz Dataset of Authoritarian Regime Types](https://www.tandfonline.com/doi/full/10.1080/13510347.2013.738861)| Regime|dichotomous|No|
+|Autocracies of the World, 1950-2012|regime|dichotomous|yes||1950-2012|
+|Mainwaring, Brinks, and Perez Linan’s democracy measure for Latin America|regime||NO||1900-2007|
+|Munck Index of Democracy|Democracy Index|continuous|NO|Only available via the Pemstein, Meserve, and Melton (2013) replication data.|1960-2005|
+|[The Democracy and Dictatorship Dataset (DD/PACL/ACLP/CGV)](https://sites.google.com/site/joseantoniocheibub/datasets?authuser=0)|democracy,regime|dichotomous|yes||1950-2020|
+|[The Political Institutions and Political Events (PIPE) dataset](https://sites.google.com/a/nyu.edu/adam-przeworski/home/data)	|democracy,regime|dichotomous|yes||1788-2008|
+|polity IV|Regime,Authority|ordinal|yes||1800-2018|
+|[The Political Regime Change (PRC) dataset](https://www.tandfonline.com/doi/pdf/10.1080/714000289)|regime|trichotomous|NO||1747-1998|
+|[Milan Svolik’s Regime Dataset](https://campuspress.yale.edu/svolik/)|regime|dichotomous|Yes||1946-2008|
